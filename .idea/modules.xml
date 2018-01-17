@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Latte.iml" filepath="$PROJECT_DIR$/Latte.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/app.iml" filepath="$PROJECT_DIR$/example/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latte_annotations/latte_annotations.iml" filepath="$PROJECT_DIR$/latte_annotations/latte_annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latte_compiler/latte_compiler.iml" filepath="$PROJECT_DIR$/latte_compiler/latte_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latte_core/latte_core.iml" filepath="$PROJECT_DIR$/latte_core/latte_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latte_ec/latte_ec.iml" filepath="$PROJECT_DIR$/latte_ec/latte_ec.iml" />
     </modules>
   </component>
 </project>
