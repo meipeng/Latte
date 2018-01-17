@@ -6,5 +6,8 @@ package hztywl.com.latte.app;
 
 public enum  ConfigType {
 
-    API_
+    API_HOST,
+    APPLICTION_COTEXT,
+    CONFIG_READY,
+    IOCON,
 }
