@@ -6,4 +6,8 @@ package hztywl.com.latte.app.delegates;
 
 public abstract class LattesDelegate extends PermissionCheckerDelegate {
 
+//    @SuppressWarnings("unchecked")
+//    public <T extends LattesDelegate> T getParentDelegate() {
+//        return (T) getParentFragment();
+//    }
 }

@@ -18,7 +18,7 @@ public class ExampleApp extends Application {
         Latte.init(this)
                 .withIcon(new FontAwesomeModule())
                 .withIcon(new FontEcModule())
-                .withApiHost("")
+                .withApiHost("http://v.juhe.cn/historyWeather/")
                 .configure();
 
     }

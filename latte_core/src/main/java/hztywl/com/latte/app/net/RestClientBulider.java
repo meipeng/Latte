@@ -87,6 +87,6 @@ public class RestClientBulider {
     }
 
     public final RestClient build() {
-        return new RestClient(mUrL, mParams, mIRequest, mISuccess, mIError, mBody);
+        return new RestClient(mUrL, mParams, mIRequest, mISuccess, mIError, mIFailure, mBody);
     }
 }

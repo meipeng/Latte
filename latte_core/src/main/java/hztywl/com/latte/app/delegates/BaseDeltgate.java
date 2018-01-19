@@ -28,7 +28,7 @@ public abstract class BaseDeltgate extends SwipeBackFragment {
      * @param rootview
      * @return
      */
-    public abstract Object onBindView(@Nullable Bundle savedInstanceState, View rootview);
+    public abstract void onBindView(@Nullable Bundle savedInstanceState, View rootview);
 
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

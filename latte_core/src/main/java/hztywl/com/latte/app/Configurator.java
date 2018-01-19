@@ -8,6 +8,7 @@ import java.util.HashMap;
 
 /**
  * Created by ${梅鹏} on 2018/1/17.
+ * @author meipeng
  */
 
 public class Configurator {
